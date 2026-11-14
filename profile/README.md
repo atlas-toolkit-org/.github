@@ -4,7 +4,7 @@
 
 <h1 align="center">Atlas Toolkit</h1>
 
-<p align="center"><em>From models, photographs and terrain to ink on paper.</em></p>
+<p align="center"><em>From 3D models, photographs and terrain to ink on paper.</em></p>
 
 <p align="center">
   <a href="https://atlas-toolkit.org">Website</a> &nbsp;·&nbsp;
