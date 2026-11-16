@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://atlas-toolkit.org">Website</a> &nbsp;·&nbsp;
+  <a href="https://atlas-toolkit.org/download/">Download</a> &nbsp;·&nbsp;
   <a href="https://github.com/atlas-toolkit-org/AtlasToolkit">Source</a> &nbsp;·&nbsp;
   <a href="https://github.com/atlas-toolkit-org/AtlasToolkit/blob/main/docs/TOOLS.md">User guide</a> &nbsp;·&nbsp;
   <a href="https://ko-fi.com/atlas_toolkit">Support</a>
